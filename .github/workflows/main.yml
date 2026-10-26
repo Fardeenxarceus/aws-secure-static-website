@@ -2,7 +2,7 @@ name: Practiicing Scheduling jobs
 
 on: 
   schedule:
-    - cron: "17 15 * * *"
+    - cron: "19 03 * * *"
 
 jobs:
   run-scripts:
