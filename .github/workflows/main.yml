@@ -3,7 +3,7 @@ name: Practicing Scheduling Jobs
 
 on:
   schedule:
-    - cron: "31 10 * * *"
+    - cron: "33 3 * * *"
   workflow_dispatch:
 
 jobs:
